@@ -1,6 +1,7 @@
 # Web Page 001
 
-This proyect is a test web page created to experiment and learn about web development.
+This project is a test web page created to experiment and learn about web development.
+The goal of this project in only to connect the backend and the frontend
 
 ## Características (Features)
 
@@ -21,7 +22,7 @@ This proyect is a test web page created to experiment and learn about web develo
 
 Open the file `index.html` in your browser to view the web page.
 
-## Tecnologías utilizadas (Thegnologies used)
+## Tecnologías utilizadas (Technologies used)
 
 - HTML
 - CSS
@@ -34,7 +35,7 @@ Open the file `index.html` in your browser to view the web page.
 
 Jeferson
 
-## Licencia (License)
+## Licencia (Lincensed)
 
 This project is lincensed under the MIT License.
 
@@ -53,28 +54,22 @@ This project is lincensed under the MIT License.
 ### Git Commands
    ```bash
    git clone ''
-   gis status ''
-   git add . | (archivos y ubicacion)
+   git status ''
+   git add . | (files and location)
    git commit -m "mensaje"
    git push
    git pull
    
    ```
-#### notas aumentar mas comandos usados
+#### note: add more commonly used commands
 - Crear ramas
 - Cambiar ramas
 - 
 ##### Para usar mejor esto trabajar desde windows y linux al mismo tiempo cambiar por dia.
 echo "# PageWeb001" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/jquispemad/PageWeb001.git
-git push -u origin main
-
-git remote add origin https://github.com/jquispemad/PageWeb001.git
-git branch -M main
 git push -u origin main
 
 ### cmd Commands
